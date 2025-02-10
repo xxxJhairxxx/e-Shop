@@ -1,4 +1,4 @@
-# E-Shop API con Express, Prisma y Angular
+# E-Shop Angular
 
 Este repositorio contiene dos proyectos:
 
@@ -7,7 +7,8 @@ Este repositorio contiene dos proyectos:
 
 ## Descripción
 
-Descripción detallada del proyecto, sus funcionalidades y el propósito que cumple. Explica por qué es útil y qué problemas resuelve.
+Este proyecto consiste en un e-shop de dos páginas desarrollado con Angular, diseñado para demostrar mis habilidades en el desarrollo frontend y mi capacidad para cumplir con los requisitos técnicos específicos de la prueba. La aplicación es completamente responsive y se centra en la funcionalidad del carrito de compras.
+
 
 ## Requisitos Previos
 

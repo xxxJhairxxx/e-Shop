@@ -89,6 +89,6 @@ Abierto a nuevas oportunidades.
 *   Portfolio: [https://portafolio-jhair-infanzon.vercel.app/](https://portafolio-jhair-infanzon.vercel.app/)
 *   LinkedIn: [https://www.linkedin.com/in/jhair-infanz%C3%B3n-quispe/](https://www.linkedin.com/in/jhair-infanz%C3%B3n-quispe/)
 *   Teléfono: 922692354
-*   GitHub: [https://github.com/xxxJhairxxx]
+*   GitHub: [https://github.com/xxxJhairxxx](https://github.com/xxxJhairxxx)
 
 ---
